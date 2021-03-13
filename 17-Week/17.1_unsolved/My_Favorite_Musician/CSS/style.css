@@ -1,0 +1,20 @@
+h1 {
+color: blueviolet;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 60px;
+}
+li {
+color: blue;
+font-weight: 600;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding-bottom: 16px;
+}
+html
+{
+    background-color: blanchedalmond;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    letter-spacing: 2px;
+}

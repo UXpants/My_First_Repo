@@ -1,0 +1,38 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.header {
+    background-color: lightgray;
+    border: 1px solid #686868;
+}
+.navButtons {
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(68, 68, 68);
+    color: white;
+    text-align: center;
+
+}
+.sidebar {
+    width: 29%;
+    float: left;
+    height: 500px;
+}
+.content {
+    width: 70%;
+    float: left;
+    height: 500px;
+}
+.topLeft {
+    display: inline;
+    text-align: center;
+    background-color: lightseagreen;
+}
+.bottomRight {
+    font-size: 18px;
+    background-color: lightsteelblue;
+}
+.title {
+    font-weight: bold;
+}
