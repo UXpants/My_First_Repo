@@ -1,5 +1,5 @@
 .jumbotron-fluid {
-    background-image: url("../Images/Group\ 5.png");
+    background-image: url("../images/Group\ 5.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
@@ -25,17 +25,17 @@
     text-decoration: none;
 }
 .book {
-    background-image: url("../Images/book_bg.png");
+    background-image: url("../images/book_bg.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .make {
-    background-image: url("../Images/make_bg.png");
+    background-image: url("../images/make_bg.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .plan {
-    background-image: url("../Images/plan_bg.png");
+    background-image: url("../images/plan_bg.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -45,7 +45,7 @@
     color: white;
 }
 .mailing {
-    background-image: url("../Images/goldenGate.png");
+    background-image: url("../images/goldenGate.png");
     background-size: cover;
     display: flex;
     align-items: center;
